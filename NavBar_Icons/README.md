@@ -109,14 +109,14 @@ In order to run this project you need:
 - Web browser
 - Any IDE (Integrated Development Environment)
  ### Note: 
- Most of the commands here are for mac user
+ The steps below are for windows users.
 
 <!-- ## Node required
 Nod node required -->
 
 ### Setup
 
-- For windows, click on the green code button and select the download zip option to download the repo.
+- Click on the green code button and select the download zip option to download the repo.
 
 
 <!-- ```sh
