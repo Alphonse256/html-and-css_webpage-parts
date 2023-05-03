@@ -2,8 +2,8 @@ Website is a collection of several webpages. Therefore to build a website, you b
 
 Here, we explore all the required parts that make up a webpage such as;
 - Header
-    > Navigation Bar
-    > Banner
+    - Navigation Bar
+    - Banner
 - Main comprising of;
     - Cards 
     - Buttons and more to look upon here.
