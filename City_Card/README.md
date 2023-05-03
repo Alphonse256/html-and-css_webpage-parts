@@ -64,7 +64,6 @@ After you're finished please remove all the comments and instructions!
   - Cape Town - South Africa
   - Cairo - Egypt
   - Nairobi - Kenya
-> Click on the Read More button to know more about these cities.
 
 <!-- **[Conforence capstone project]** is a... -->
 
@@ -140,6 +139,7 @@ Open this project here:
 
 - Run the app in any desired code editor.
 - Open it with the browser
+- Click on the Read More button to know more about these cities.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
