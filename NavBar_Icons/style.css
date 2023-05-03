@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #002525;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+.icons{
+    background-color: #00004e;
+    display: inline-block;
+}
+
+.icons a{
+    display: inline-block;
+    padding: 22px 25px;
+    color: #fff;
+}
+
+.icons a:nth-child(1){
+    background-color: #ff3c00;
+}
+
+.icons a:not(:first-child):hover{
+    background-color: #ff3c00;
+}
+
+.icons a:hover i{
+    transform: scale(1.2);
+}
+
+.icons a i{
+    font-size: 30px;
+    transition: all .2s ease-in-out;
+}
