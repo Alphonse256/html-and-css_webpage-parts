@@ -160,7 +160,7 @@ Open this project here:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Fetch Random Jokes**
+- [ ] **Hover Effect**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
