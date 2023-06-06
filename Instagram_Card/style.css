@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.parent
+{
+    background: linear-gradient(90deg, rgb(46, 0, 99), rgb(148, 0, 108));
+    padding: 28px;
+    min-height: 70%;
+    width: 27%;
+    color: #fff;
+    text-align: center;
+    border-radius: 10px;
+    transition: all .3s ease-in-out;
+}
+
+.parent:hover{
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, .4), 
+                -3px -3px 10px rgba(0, 0, 0, .4);
+}
+
+.insta_icon i{
+    font-size: 50px;
+}
+
+h1{
+    margin: 10px 0;
+}
+
+p{
+    font-size: 18px;
+    text-align: left;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 17px;
+    border-radius: 50px;
+    border: none;
+    color: #f98900;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: #f98900;
+    color: white;
+}
