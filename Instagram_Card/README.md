@@ -25,8 +25,8 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <!-- <img src="emoji.png" alt="logo" width="140"  height="auto" />
-  <br/> -->
+  <img src="inst_img.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
   <h2><b>Instagram Card</b></h2>
 
