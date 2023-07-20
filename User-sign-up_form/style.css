@@ -69,6 +69,12 @@ form input{
     margin: 15px auto;
     display: block;
     cursor: pointer;
+    transition: all .5s ease-in-out;
+    font-weight: bolder;
+}
+
+.btn:hover{
+    background-color: #620062;
 }
 
 .checkbox{
